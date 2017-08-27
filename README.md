@@ -1,4 +1,4 @@
-#walkability
+# walkability
 This repository is the home for Newport Data Project's walkability projects.  
 
 Documentation is in the [wiki](https://github.com/NewportDataProject/walkability/wiki).  
