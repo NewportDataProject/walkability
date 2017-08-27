@@ -1,0 +1,3 @@
+[submodule "datasets/sidewalk-map"]
+	path = datasets/sidewalk-map
+	url = git@github.com:NewportDataPortal/sidewalk-map.git
