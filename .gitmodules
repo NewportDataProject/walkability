@@ -1,3 +1,6 @@
 [submodule "datasets/sidewalk-map"]
 	path = datasets/sidewalk-map
 	url = git@github.com:NewportDataPortal/sidewalk-map.git
+[submodule "datasets/RIGIS-RIDOT-roads"]
+	path = datasets/RIGIS-RIDOT-roads
+	url = git@github.com:NewportDataPortal/RIGIS-RIDOT-roads.git
